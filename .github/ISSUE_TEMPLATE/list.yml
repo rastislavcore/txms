@@ -1,0 +1,89 @@
+name: List provider
+description: List TXMS service for periodical check of the quality
+labels:
+  - list
+assignees:
+  - raisty
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Please, provide all details to list your service.
+
+  - type: input
+    id: asset
+    attributes:
+      label: Cryptocurrency
+      description: Cryptocurrency to be supported
+      placeholder: XCB
+      value: XCB
+    validations:
+      required: true
+
+  - type: input
+    id: url
+    attributes:
+      label: URL of the service
+      description: URL to the website
+      placeholder: https://
+
+  - type: input
+    id: ping
+    attributes:
+      label: URL for the pings
+      description: URL to the pingng service
+      placeholder: https://
+    validations:
+      required: true
+
+  - type: input
+    id: icon
+    attributes:
+      label: Icon URL
+      description: URL to the icon file (png)
+      placeholder: https://
+
+  - type: input
+    id: phone
+    attributes:
+      label: Service phone number
+      description: Service phone number with prefix
+      placeholder: +
+    validations:
+      required: true
+
+  - type: input
+    id: maintainer
+    attributes:
+      label: Maintainer
+      description: Maintainer - GitHub username
+      placeholder: @
+    validations:
+      required: true
+
+  - type: input
+    id: region
+    attributes:
+      label: Region
+      description: Region (ISO 3166 Alpha-2 country code)
+      placeholder: en
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: free
+    attributes:
+      label: Free service?
+      description: Is the service free of charge?
+      options:
+        - label: This service is free
+          required: true
+
+  - type: checkboxes
+    id: personaldata
+    attributes:
+      label: Personal data collection
+      description: Is the service NOT collecting personal data? (Such as: phone number, location, etc.)
+      options:
+        - label: This service is NOT collecting personal data
+          required: true
