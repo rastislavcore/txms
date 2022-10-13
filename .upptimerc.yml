@@ -12,6 +12,14 @@ sites:
     assignees:
       - raisty
 
+commitMessages:
+  commitAuthorName: "Txms Bot"
+  commitAuthorEmail: "bot@txms.info"
+
+skipDescriptionUpdate: true
+skipTopicsUpdate: true
+skipHomepageUpdate: true
+
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
@@ -30,14 +38,6 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
-
-commitMessages:
-  commitAuthorName: "Txms Bot"
-  commitAuthorEmail: "bot@txms.info"
-
-skipDescriptionUpdate: true
-skipTopicsUpdate: true
-skipHomepageUpdate: true
 
 i18n:
   footer: This page is [open source]($REPO), observing [TXMS Services](https://github.com/cryptohub-digital/txms.js)
