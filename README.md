@@ -1,6 +1,6 @@
 # TXMS Status
 
-<img src="assets/logo/txms.svg" width="256"/>
+<img src="assets/logo/txms.svg" width="128"/>
 
 This repository contains the open-source uptime monitor and status page for [Gate Status](https://txms.info).
 
