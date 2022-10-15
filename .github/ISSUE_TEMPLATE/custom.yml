@@ -2,8 +2,7 @@ name: List provider 📟
 description: List TXMS service for periodical check of the quality
 labels:
   - list
-assignees:
-  - raisty
+assignees: raisty
 body:
   - type: markdown
     attributes:
