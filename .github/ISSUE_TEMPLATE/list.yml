@@ -82,7 +82,7 @@ body:
     id: personaldata
     attributes:
       label: Personal data collection
-      description: Is the service NOT collecting personal data? (Such as: phone number, location, etc.)
+      description: "Is the service NOT collecting personal data? (Such as: phone number, location, etc.)"
       options:
-        - label: This service is NOT collecting personal data
+        - label: "This service is NOT collecting personal data"
           required: true
