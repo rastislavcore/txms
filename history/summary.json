@@ -24,19 +24,19 @@
     "url": "$PING_DATALAYER_MAINNET_1",
     "icon": "https://raw.githubusercontent.com/gatestatus/txms/master/assets/providers/datalayer.png",
     "slug": "data-layer-core-mainnet",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 312,
-    "timeDay": 321,
-    "timeWeek": 252,
-    "timeMonth": 235,
-    "timeYear": 312,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "98.55%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.98%",
+    "time": 310,
+    "timeDay": 256,
+    "timeWeek": 244,
+    "timeMonth": 233,
+    "timeYear": 310,
     "dailyMinutesDown": {
-      "2023-01-25": 0
+      "2023-01-25": 21
     }
   }
 ]
