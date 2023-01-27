@@ -6,15 +6,15 @@
     "slug": "data-layer-core-devin",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "98.93%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.85%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
-    "time": 325,
-    "timeDay": 246,
+    "time": 323,
+    "timeDay": 190,
     "timeWeek": 251,
-    "timeMonth": 232,
-    "timeYear": 325,
+    "timeMonth": 230,
+    "timeYear": 323,
     "dailyMinutesDown": {
       "2023-01-25": 15
     }
@@ -26,15 +26,15 @@
     "slug": "data-layer-core-mainnet",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "98.55%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.79%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.98%",
-    "time": 310,
-    "timeDay": 219,
+    "time": 308,
+    "timeDay": 188,
     "timeWeek": 243,
-    "timeMonth": 231,
-    "timeYear": 310,
+    "timeMonth": 229,
+    "timeYear": 308,
     "dailyMinutesDown": {
       "2023-01-25": 21
     }
