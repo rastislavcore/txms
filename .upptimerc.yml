@@ -40,19 +40,21 @@ status-website:
     |
     You are empowered to decide on a provider based on your region, ensuring a steady uptime for reliable message conveyance.
 
-    Here's the detail for Core Mainnet:
+    ## Core Mainnet Details:
 
-    | Region | Number |
-    |--------|--------|
-    | Global | +12019715152 |
-    | US | +12019715152 |
+    ### Region: Global
+    **Number:** +12019715152
 
-    And for the Core Testnet (Devín):
+    ### Region: US
+    **Number:** +12019715152
 
-    | Region | Number |
-    |--------|--------|
-    | Global | +12014835939 |
-    | US | +12014835939 |
+    ## Core Testnet (Devín) Details:
+
+    ### Region: Global
+    **Number:** +12014835939
+
+    ### Region: US
+    **Number:** +12014835939
   favicon: https://corecdn.info/mark/png/32/txms.png
   faviconSvg: https://corecdn.info/mark/svg/32/txms.svg
   customHeadHtml: "<meta property='ican:xcb' content='cb7147879011ea207df5b35a24ca6f0859dcfb145999' />"
