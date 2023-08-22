@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 269,
-    "timeDay": 254,
-    "timeWeek": 245,
-    "timeMonth": 241,
+    "timeDay": 330,
+    "timeWeek": 256,
+    "timeMonth": 246,
     "timeYear": 269,
     "dailyMinutesDown": {
       "2023-01-25": 15
@@ -25,16 +25,16 @@
     "icon": "https://raw.githubusercontent.com/gatestatus/txms/master/assets/providers/datalayer.png",
     "slug": "data-layer-core-mainnet",
     "status": "up",
-    "uptime": "99.99%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.99%",
-    "time": 264,
-    "timeDay": 258,
-    "timeWeek": 246,
-    "timeMonth": 241,
-    "timeYear": 264,
+    "uptimeYear": "100.00%",
+    "time": 265,
+    "timeDay": 332,
+    "timeWeek": 257,
+    "timeMonth": 246,
+    "timeYear": 265,
     "dailyMinutesDown": {
       "2023-01-25": 21
     }
