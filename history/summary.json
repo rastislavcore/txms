@@ -4,10 +4,10 @@
     "url": "$PING_DATALAYER_DEVIN_1",
     "icon": "https://raw.githubusercontent.com/gatestatus/txms/master/assets/providers/datalayer.png",
     "slug": "data-layer-core-devin",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 264,
@@ -16,6 +16,7 @@
     "timeMonth": 236,
     "timeYear": 264,
     "dailyMinutesDown": {
+      "2023-10-31": 1,
       "2023-01-25": 15
     }
   },
@@ -24,9 +25,9 @@
     "url": "$PING_DATALAYER_MAINNET_1",
     "icon": "https://raw.githubusercontent.com/gatestatus/txms/master/assets/providers/datalayer.png",
     "slug": "data-layer-core-mainnet",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -36,6 +37,7 @@
     "timeMonth": 234,
     "timeYear": 260,
     "dailyMinutesDown": {
+      "2023-10-31": 0,
       "2023-01-25": 21
     }
   }
