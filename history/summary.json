@@ -5,15 +5,15 @@
     "icon": "https://raw.githubusercontent.com/gatestatus/txms/master/assets/providers/datalayer.png",
     "slug": "data-layer-core-devin",
     "status": "up",
-    "uptime": "99.98%",
+    "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 240,
-    "timeDay": 184,
-    "timeWeek": 219,
-    "timeMonth": 233,
+    "timeDay": 182,
+    "timeWeek": 185,
+    "timeMonth": 229,
     "timeYear": 238,
     "dailyMinutesDown": {
       "2023-10-31": 109
@@ -30,10 +30,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 240,
+    "time": 239,
     "timeDay": 182,
-    "timeWeek": 216,
-    "timeMonth": 231,
+    "timeWeek": 184,
+    "timeMonth": 227,
     "timeYear": 237,
     "dailyMinutesDown": {
       "2023-10-31": 108
