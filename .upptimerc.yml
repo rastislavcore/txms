@@ -60,9 +60,9 @@ status-website:
   customHeadHtml: "<meta property='ican:xcb' content='cb7147879011ea207df5b35a24ca6f0859dcfb145999' />"
   navbar:
     - title: TXMS
-      href: https://github.com/cryptohub-digital/txms.js
-    - title: "CRYPTO ▪ HUB"
-      href: https://github.com/cryptohub-digital
+      href: https://github.com/bchainhub/txms.js
+    - title: "Blockchain Hub"
+      href: https://github.com/bchainhub
 
 i18n:
-  footer: This page is [open source]($REPO), observing [TXMS Services](https://github.com/cryptohub-digital/txms.js)
+  footer: This page is [open source]($REPO), observing [TXMS Services](https://github.com/bchainhub/txms.js)
