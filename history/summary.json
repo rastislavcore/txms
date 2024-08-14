@@ -24,7 +24,7 @@
     "url": "$PING_DATALAYER_MAINNET_1",
     "icon": "https://raw.githubusercontent.com/gatestatus/txms/master/assets/providers/datalayer.png",
     "slug": "data-layer-core-mainnet",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -36,6 +36,7 @@
     "timeMonth": 256,
     "timeYear": 237,
     "dailyMinutesDown": {
+      "2024-08-14": 0,
       "2023-10-31": 108
     }
   }
