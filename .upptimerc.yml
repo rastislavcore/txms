@@ -3,7 +3,7 @@ owner: gatestatus # Your GitHub organization or username, where this repository 
 repo: txms # The name of this repository
 
 sites:
-  - name: DataLayer - Core Devin
+  - name: DataLayer - Core Devín
     url: $PING_DATALAYER_DEVIN_1
     icon: https://raw.githubusercontent.com/gatestatus/txms/master/assets/providers/datalayer.png
     maxResponseTime: 7000
@@ -21,8 +21,8 @@ sites:
       - rastislavcore
 
 commitMessages:
-  commitAuthorName: "Txms Bot"
-  commitAuthorEmail: "bot@txms.info"
+  commitAuthorName: "TxMS Bot"
+  commitAuthorEmail: "txms@onion.email"
 
 skipDescriptionUpdate: true
 skipTopicsUpdate: true
@@ -34,11 +34,11 @@ status-website:
   cname: txms.info
   # baseUrl: /your-repo-name
   logoUrl: https://corecdn.info/badge/svg/32/txms.svg
-  name: TXMS Status
-  introTitle: "**TXMS Status** is an observation tool for entities participating in the TXMS ecosystem."
+  name: TxMS Status
+  introTitle: "**TxMS Status** is an observation tool for entities participating in the TxMS ecosystem."
   introMessage:
     |
-    You are empowered to decide on a provider based on your region, ensuring a steady uptime for reliable message conveyance.
+    You are empowered to choose a provider based on your region, ensuring consistent uptime for reliable message conveyance.
 
     ## Core Mainnet Details:
 
@@ -59,10 +59,10 @@ status-website:
   faviconSvg: https://corecdn.info/mark/svg/32/txms.svg
   customHeadHtml: "<meta property='ican:xcb' content='cb7147879011ea207df5b35a24ca6f0859dcfb145999' />"
   navbar:
-    - title: TXMS
+    - title: TxMS
       href: https://github.com/bchainhub/txms.js
     - title: "Blockchain Hub"
       href: https://github.com/bchainhub
 
 i18n:
-  footer: This page is [open source]($REPO), observing [TXMS Services](https://github.com/bchainhub/txms.js)
+  footer: This page is [open source]($REPO), observing [TxMS Services](https://github.com/bchainhub/txms.js)
