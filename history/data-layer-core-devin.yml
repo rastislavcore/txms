@@ -1,7 +1,7 @@
 url: $PING_DATALAYER_DEVIN_1
-status: degraded
-code: 523
-responseTime: 11243
-lastUpdated: 2025-02-24T11:52:40.427Z
+status: up
+code: 200
+responseTime: 663
+lastUpdated: 2025-02-24T12:27:52.724Z
 startTime: 2022-11-05T10:16:42.000Z
 generator: Upptime <https://github.com/upptime/upptime>
