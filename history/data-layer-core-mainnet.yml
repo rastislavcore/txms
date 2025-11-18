@@ -1,7 +1,7 @@
 url: $PING_DATALAYER_MAINNET_1
-status: down
-code: 500
-responseTime: 148
-lastUpdated: 2025-11-18T13:37:12.839Z
+status: up
+code: 200
+responseTime: 514
+lastUpdated: 2025-11-18T14:54:36.246Z
 startTime: 2022-11-05T10:16:44.000Z
 generator: Upptime <https://github.com/upptime/upptime>
