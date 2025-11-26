@@ -4,7 +4,7 @@
     "url": "$PING_DATALAYER_DEVIN_1",
     "icon": "https://raw.githubusercontent.com/gatestatus/txms/master/assets/providers/datalayer.png",
     "slug": "data-layer-core-devin",
-    "status": "up",
+    "status": "down",
     "uptime": "99.61%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
